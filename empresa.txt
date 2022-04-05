@@ -2,3 +2,6 @@ Radek
 IBM
 Siemens
 Microsoft
+Google
+Apple
+Tesla
